@@ -1,15 +1,15 @@
 INFO:     Will watch for changes in these directories: ['/home/workspace']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [210] using StatReload
-INFO:     Started server process [212]
+INFO:     Started reloader process [259] using StatReload
+INFO:     Started server process [261]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     172.20.0.1:38476 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     172.20.0.1:47828 - "GET /api/team HTTP/1.1" 200 OK
-INFO:     172.20.0.1:47836 - "GET /api/socials HTTP/1.1" 200 OK
-INFO:     172.20.0.1:47828 - "GET /api/team HTTP/1.1" 200 OK
-INFO:     172.20.0.1:47836 - "GET /api/socials HTTP/1.1" 200 OK
-INFO:     172.20.0.1:47838 - "GET /api/club HTTP/1.1" 200 OK
-INFO:     172.20.0.1:47844 - "GET /api/events HTTP/1.1" 200 OK
-INFO:     172.20.0.1:47838 - "GET /api/club HTTP/1.1" 200 OK
-INFO:     172.20.0.1:47844 - "GET /api/events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:44218 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:44232 - "GET /api/socials HTTP/1.1" 200 OK
+INFO:     172.20.0.1:44224 - "GET /api/club HTTP/1.1" 200 OK
+INFO:     172.20.0.1:44232 - "GET /api/club HTTP/1.1" 200 OK
+INFO:     172.20.0.1:44224 - "GET /api/socials HTTP/1.1" 200 OK
+INFO:     172.20.0.1:50040 - "GET /api/club HTTP/1.1" 200 OK
+INFO:     172.20.0.1:50056 - "GET /api/socials HTTP/1.1" 200 OK
+INFO:     172.20.0.1:50040 - "GET /api/club HTTP/1.1" 200 OK
+INFO:     172.20.0.1:50056 - "GET /api/socials HTTP/1.1" 200 OK
